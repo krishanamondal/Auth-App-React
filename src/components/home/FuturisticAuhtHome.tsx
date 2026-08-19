@@ -37,23 +37,7 @@ export default function FuturisticAuhtHome() {
       {/* Background Glow Overlay */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,_var(--tw-gradient-stops))] from-cyan-900/20 via-transparent to-transparent pointer-events-none" />
 
-      {/* Navigation
-      <nav className="relative z-10 flex items-center justify-between px-8 py-6 max-w-7xl mx-auto border-b border-neutral-800/80">
-        <div className="flex items-center gap-2 font-bold text-xl tracking-wider">
-          <Fingerprint className="w-8 h-8 text-cyan-400 animate-pulse" />
-          <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-purple-500">
-             AUTH - APP
-          </span>
-        </div>
-        <div className="flex items-center gap-4">
-          <Button variant="ghost" className="text-neutral-300 hover:text-white hover:bg-neutral-800">
-            Sign In
-          </Button>
-          <Button className="bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-medium hover:opacity-90 shadow-[0_0_15px_rgba(6,182,212,0.4)] transition-all">
-            Get Started
-          </Button>
-        </div>
-      </nav> */}
+    
 
       {/* Hero Section */}
       <section className="relative z-10 py-28 px-6 text-center flex flex-col items-center justify-center max-w-5xl mx-auto">

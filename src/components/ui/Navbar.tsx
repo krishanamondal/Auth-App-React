@@ -18,7 +18,7 @@ function Navbar(){
             <Button size={'sm'} className='cursor-pointer' variant={"outline"}>SignUp</Button>
         </NavLink>
         <NavLink to={"/login"}>
-                    <Button size={'sm'} className='cursor-pointer' variant={"outline"}>Login</Button>
+            <Button size={'sm'} className='cursor-pointer' variant={"outline"}>Login</Button>
 
         </NavLink>
     </div>

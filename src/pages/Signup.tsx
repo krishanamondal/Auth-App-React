@@ -6,8 +6,7 @@ import {
   Lock,
   Eye,
   EyeOff,
-  // Chrome,
-  // Github,
+
 } from "lucide-react";
 
 interface RegisterData {
@@ -278,7 +277,7 @@ export default function Signup() {
               hover:bg-[#272727]
             "
           >
-            {/* <Chrome size={20} strokeWidth={2} /> */}
+            
             Continue with Google
           </button>
 
@@ -304,7 +303,7 @@ export default function Signup() {
               hover:bg-[#272727]
             "
           >
-            {/* <Github size={20} strokeWidth={2} /> */}
+           
             Continue with GitHub
           </button>
 
