@@ -15,7 +15,7 @@ interface RegisterData {
   password: string;
 }
 
-export default function Signup() {
+export default function Signup1() {
   const [data, setData] = useState<RegisterData>({
     name: "",
     email: "",

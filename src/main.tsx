@@ -2,7 +2,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 import { BrowserRouter, Routes, Route } from "react-router";
-import Signup from './pages/Signup1.tsx';
+import Signup from './pages/Signup.tsx';
 import Services from './pages/Services.tsx';
 import About from './pages/About.tsx';
 import Login from './pages/Login.tsx';
